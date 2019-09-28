@@ -22,3 +22,37 @@ Modul: IMATH (Informatik Mathematik) / HS2019
     - `Week_13` - Ordinary Differential Equations (ODEs) Part 3: some illustrative examples
     - `Week_99` - Exam / MEP Preparation
     
+## Install Octave kernel for Jupyter
+
+### macOS
+
+1. Create virtual env using conda or other similar tools  
+
+2. Install [Jupyter Notebook](http://jupyter.readthedocs.org/en/latest/install.html) and [GNU Octave](https://www.gnu.org/software/octave/download.html)
+
+```bash
+brew install octave
+brew install gnuplot
+```
+
+3. Install octave kernel
+
+```bash
+pip install octave_kernel
+```
+
+4. Check if the kernel is available
+
+```bash
+$ jupyter kernelspec list
+Available kernels:
+  octave     /Users/user/Library/Jupyter/kernels/octave
+  python3    /Users/user/Applications/anaconda3/envs/imath/share/jupyter/kernels/python3
+```
+
+5. Start Jupyther
+
+`jupyter notebook` or `jupyter lab`, if available
+
+`In the notebook interface, select Octave from the 'New' menu`
+
