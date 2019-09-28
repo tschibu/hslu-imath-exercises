@@ -21,10 +21,10 @@ Modul: IMATH (Informatik Mathematik) / HS2019
     - `Week_13` - Ordinary Differential Equations (ODEs) Part 2: How to numerically solve a system of ODEs
     - `Week_13` - Ordinary Differential Equations (ODEs) Part 3: some illustrative examples
     - `Week_99` - Exam / MEP Preparation
-    
-## Install Octave kernel for Jupyter
 
-### macOS
+## Install Octave kernel for Jupyter
+
+### macOS
 
 1. Create virtual env using conda or other similar tools  
 
