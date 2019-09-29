@@ -484,7 +484,7 @@ ans =
 >> y1 = sin(2*pi*4*t);
 >> plot(t, y1)
 ```
-![](@attachment/Clipboard_2019-09-29-07-20-42.png)
+![](attachments/Clipboard_2019-09-29-07-20-42.png)
 
 some other plots
 ```octave
@@ -498,7 +498,7 @@ some other plots
 >> legend ('sin', 'cos')
 >> title('my first plot')
 ```
-![](@attachment/Clipboard_2019-09-29-07-24-06.png)
+![](attachments/Clipboard_2019-09-29-07-24-06.png)
 
 Sub plotting
 ```octave
@@ -507,7 +507,7 @@ Sub plotting
 >> subplot(1,2,2) 
 >> plot(t,y2, 'b') % second
 ```
-![](@attachment/Clipboard_2019-09-29-07-26-49.png)
+![](attachments/Clipboard_2019-09-29-07-26-49.png)
 
 
 Plot a matrix and show their values
@@ -515,7 +515,7 @@ Plot a matrix and show their values
 >> A = magic(5)
 >> imagesc(A), colorbar, colormap gray;
 ```
-![](@attachment/Clipboard_2019-09-29-07-32-41.png)
+![](attachments/Clipboard_2019-09-29-07-32-41.png)
 
 ## Control statements (for, while, if) and functions
 
