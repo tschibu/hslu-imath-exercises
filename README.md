@@ -19,7 +19,7 @@ Modul: IMATH (Informatik Mathematik) / HS2019
     - `Week_11` - Numerics Part 4: The Discrete Fourier Transformation and the Fast Fourier Transform (FFT)
     - `Week_12` - Ordinary Differential Equations (ODEs) Part 1: Definitions, Reduction of the Order
     - `Week_13` - Ordinary Differential Equations (ODEs) Part 2: How to numerically solve a system of ODEs
-    - `Week_13` - Ordinary Differential Equations (ODEs) Part 3: some illustrative examples
+    - `Week_14` - Ordinary Differential Equations (ODEs) Part 3: some illustrative examples
     - `Week_99` - Exam / MEP Preparation
 
 ## Install Octave kernel for Jupyter
